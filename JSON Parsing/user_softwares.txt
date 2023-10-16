@@ -1,0 +1,33 @@
+Python 3.10.9 Core Interpreter (64-bit)
+Python 3.10.9 Tcl/Tk Support (64-bit)
+Python 3.10.9 pip Bootstrap (64-bit)
+Python 3.10.9 Development Libraries (64-bit)
+Python 3.10.9 Standard Library (64-bit)
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Licensing Component
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31332
+Zoom(64bit)
+MobaXterm
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334
+Epic Online Services
+Apple Application Support (64-bit)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31332
+Node.js
+Epic Games Launcher Prerequisites (x64)
+Java 8 Update 371 (64-bit)
+Microsoft Update Health Tools
+paint.net
+ExpressVPN
+Apple Mobile Device Support
+Epic Games Launcher
+Google Chrome
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334
+
+Bonjour
+HP Audio Switch
+Duet Display
+Python Launcher
+Java Auto Updater
+calibre 64bit
